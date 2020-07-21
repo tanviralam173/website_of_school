@@ -63,9 +63,8 @@
 .light-green{
     color: #21B573;
 }
-.unlist li{
+.unlist{
     list-style: none;
-    text-decoration: none;
 }
 .button{
     position: absolute;
@@ -153,8 +152,5 @@ footer{
     .last-part{
         height: 800px;
         background-color: black;
-    }
-    .container .row .padd{
-        padding-bottom: 80px;
     }
 }
